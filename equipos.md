@@ -10,3 +10,8 @@
 8. Betis 
 9. Real Oviedo
 
+## Equipos Locales:
+1. Universitario
+2. Melgar
+3. Alianza Lima
+

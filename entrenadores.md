@@ -8,7 +8,4 @@
 7. Arteta
 8. Koeman
 
-##ENTRENADORES LOCALES:
 
-1. Comizo
-2. Chemo

@@ -4,3 +4,4 @@
 2. Barcelona
 3. Ath Madrid
 4. Sevilla
+5. Getafe

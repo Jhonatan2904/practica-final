@@ -7,4 +7,6 @@
 5. Getafe
 6. Levante
 7. Valencia
+8. Betis 
+9. Real Oviedo
 
